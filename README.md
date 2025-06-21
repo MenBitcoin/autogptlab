@@ -26,3 +26,7 @@ TON-кошелёк:
 ## 📬 Связь
 
 Telegram: [@citizenkaz](https://t.me/citizenkaz)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
